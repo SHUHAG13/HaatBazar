@@ -95,7 +95,7 @@ namespace HaatBazar.Controllers
 
             _context.childCategoryMaster.Remove(existingChild);
             _context.SaveChanges();
-            return Ok("Child category deleted successfully");
+            return Ok("Child categoryMaster deleted successfully");
         }
     }
 }
