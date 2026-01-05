@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DotNet Project\\HaatBazar\\",
+  "WorkspaceRootPath": "E:\\ShuhagPersonal\\HaatBazar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\controllers\\childcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\controllers\\childcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|solutionrelative:haatbazar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\models\\dto\\childcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\models\\dto\\childcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|solutionrelative:haatbazar\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\models\\entity\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\models\\entity\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar\\controllers\\childcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|solutionrelative:haatbazar\\controllers\\childcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\models\\entity\\categorymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\models\\entity\\categorymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE3CA04E-EBA2-4109-9B3F-766A3629614E}|HaatBazar.Application\\HaatBazar.Application.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3CA04E-EBA2-4109-9B3F-766A3629614E}|HaatBazar.Application\\HaatBazar.Application.csproj|solutionrelative:haatbazar.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE3CA04E-EBA2-4109-9B3F-766A3629614E}|HaatBazar.Application\\HaatBazar.Application.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3CA04E-EBA2-4109-9B3F-766A3629614E}|HaatBazar.Application\\HaatBazar.Application.csproj|solutionrelative:haatbazar.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5C8A725-A847-43D7-AE54-CF58FC460C8E}|HaatBazar.Infrasstructure\\HaatBazar.Infrastructure.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar.infrasstructure\\haatbazar.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5C8A725-A847-43D7-AE54-CF58FC460C8E}|HaatBazar.Infrasstructure\\HaatBazar.Infrastructure.csproj|solutionrelative:haatbazar.infrasstructure\\haatbazar.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\models\\entity\\orderdetailstbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\models\\entity\\orderdetailstbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE3CA04E-EBA2-4109-9B3F-766A3629614E}|HaatBazar.Application\\HaatBazar.Application.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar.application\\services\\childcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3CA04E-EBA2-4109-9B3F-766A3629614E}|HaatBazar.Application\\HaatBazar.Application.csproj|solutionrelative:haatbazar.application\\services\\childcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\models\\entity\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\models\\entity\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE3CA04E-EBA2-4109-9B3F-766A3629614E}|HaatBazar.Application\\HaatBazar.Application.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar.application\\interfaces\\ichildcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3CA04E-EBA2-4109-9B3F-766A3629614E}|HaatBazar.Application\\HaatBazar.Application.csproj|solutionrelative:haatbazar.application\\interfaces\\ichildcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\models\\entity\\cartmastertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\models\\entity\\cartmastertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0C224C1-B1A8-4244-B74E-CEB845FEF15B}|HaatBazar.Model\\HaatBazar.Model.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar.model\\entity\\cartmastertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C224C1-B1A8-4244-B74E-CEB845FEF15B}|HaatBazar.Model\\HaatBazar.Model.csproj|solutionrelative:haatbazar.model\\entity\\cartmastertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\models\\entity\\childcategorymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\models\\entity\\childcategorymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0C224C1-B1A8-4244-B74E-CEB845FEF15B}|HaatBazar.Model\\HaatBazar.Model.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar.model\\haatbazar.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0C224C1-B1A8-4244-B74E-CEB845FEF15B}|HaatBazar.Model\\HaatBazar.Model.csproj|solutionrelative:haatbazar.model\\haatbazar.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\models\\entity\\ordermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\models\\entity\\ordermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5C8A725-A847-43D7-AE54-CF58FC460C8E}|HaatBazar.Infrasstructure\\HaatBazar.Infrastructure.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar.infrasstructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C8A725-A847-43D7-AE54-CF58FC460C8E}|HaatBazar.Infrasstructure\\HaatBazar.Infrastructure.csproj|solutionrelative:haatbazar.infrasstructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar\\haatbazar.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|solutionrelative:haatbazar\\haatbazar.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|solutionrelative:haatbazar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|d:\\dotnet project\\haatbazar\\haatbazar\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF91661-7F1B-2CF0-FA25-CD74C3C94FF5}|HaatBazar\\HaatBazar.csproj|solutionrelative:haatbazar\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|e:\\shuhagpersonal\\haatbazar\\haatbazar\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0697D0-877E-3A3B-E214-C7C4393EE2B3}|HaatBazar\\HaatBazar.API.csproj|solutionrelative:haatbazar\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,162 +66,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 24,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChildCategoryDto.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\DTO\\ChildCategoryDto.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Models\\DTO\\ChildCategoryDto.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\DTO\\ChildCategoryDto.cs",
-              "RelativeToolTip": "HaatBazar\\Models\\DTO\\ChildCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T17:12:44.497Z"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "HaatBazar.Infrastructure",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Infrasstructure\\HaatBazar.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "HaatBazar.Infrasstructure\\HaatBazar.Infrastructure.csproj",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Infrasstructure\\HaatBazar.Infrastructure.csproj",
+              "RelativeToolTip": "HaatBazar.Infrasstructure\\HaatBazar.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T03:06:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChildCategoryService.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Application\\Services\\ChildCategoryService.cs",
+              "RelativeDocumentMoniker": "HaatBazar.Application\\Services\\ChildCategoryService.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Application\\Services\\ChildCategoryService.cs",
+              "RelativeToolTip": "HaatBazar.Application\\Services\\ChildCategoryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:35:42.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "HaatBazar.Application\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "HaatBazar.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:27:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IChildCategoryService.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Application\\Interfaces\\IChildCategoryService.cs",
+              "RelativeDocumentMoniker": "HaatBazar.Application\\Interfaces\\IChildCategoryService.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Application\\Interfaces\\IChildCategoryService.cs",
+              "RelativeToolTip": "HaatBazar.Application\\Interfaces\\IChildCategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:22:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "HaatBazar.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "HaatBazar.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:19:50.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartMasterTbl.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Model\\Entity\\CartMasterTbl.cs",
+              "RelativeDocumentMoniker": "HaatBazar.Model\\Entity\\CartMasterTbl.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Model\\Entity\\CartMasterTbl.cs",
+              "RelativeToolTip": "HaatBazar.Model\\Entity\\CartMasterTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:56:29.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HaatBazar.Model.csproj",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Model\\HaatBazar.Model.csproj",
+              "RelativeDocumentMoniker": "HaatBazar.Model\\HaatBazar.Model.csproj",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Model\\HaatBazar.Model.csproj",
+              "RelativeToolTip": "HaatBazar.Model\\HaatBazar.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T09:56:18.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Infrasstructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HaatBazar.Infrasstructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar.Infrasstructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HaatBazar.Infrasstructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:52:59.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ChildCategoryController.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Controllers\\ChildCategoryController.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\Controllers\\ChildCategoryController.cs",
               "RelativeDocumentMoniker": "HaatBazar\\Controllers\\ChildCategoryController.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Controllers\\ChildCategoryController.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\Controllers\\ChildCategoryController.cs",
               "RelativeToolTip": "HaatBazar\\Controllers\\ChildCategoryController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T17:07:27.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductMaster.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\ProductMaster.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Models\\Entity\\ProductMaster.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\ProductMaster.cs",
-              "RelativeToolTip": "HaatBazar\\Models\\Entity\\ProductMaster.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:16:23.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryMaster.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\CategoryMaster.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Models\\Entity\\CategoryMaster.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\CategoryMaster.cs",
-              "RelativeToolTip": "HaatBazar\\Models\\Entity\\CategoryMaster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:05:09.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "HaatBazar\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:28:44.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "HaatBazar\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:02:34.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderDetailsTbl.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\OrderDetailsTbl.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Models\\Entity\\OrderDetailsTbl.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\OrderDetailsTbl.cs",
-              "RelativeToolTip": "HaatBazar\\Models\\Entity\\OrderDetailsTbl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:19:09.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerMaster.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\CustomerMaster.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Models\\Entity\\CustomerMaster.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\CustomerMaster.cs",
-              "RelativeToolTip": "HaatBazar\\Models\\Entity\\CustomerMaster.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:17:20.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CartMasterTbl.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\CartMasterTbl.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Models\\Entity\\CartMasterTbl.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\CartMasterTbl.cs",
-              "RelativeToolTip": "HaatBazar\\Models\\Entity\\CartMasterTbl.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:17:59.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChildCategoryMaster.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\ChildCategoryMaster.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Models\\Entity\\ChildCategoryMaster.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\ChildCategoryMaster.cs",
-              "RelativeToolTip": "HaatBazar\\Models\\Entity\\ChildCategoryMaster.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:14:53.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderMaster.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\OrderMaster.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Models\\Entity\\OrderMaster.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Models\\Entity\\OrderMaster.cs",
-              "RelativeToolTip": "HaatBazar\\Models\\Entity\\OrderMaster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:18:37.707Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Program.cs",
-              "RelativeDocumentMoniker": "HaatBazar\\Program.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\Program.cs",
-              "RelativeToolTip": "HaatBazar\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswAwAAABfAAAAAAAAAA==",
+              "Title": "HaatBazar.API.csproj",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\HaatBazar.API.csproj",
+              "RelativeDocumentMoniker": "HaatBazar\\HaatBazar.API.csproj",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\HaatBazar.API.csproj",
+              "RelativeToolTip": "HaatBazar\\HaatBazar.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T09:45:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "HaatBazar\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "HaatBazar\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T15:54:38.921Z"
+              "WhenOpened": "2025-12-28T16:28:44.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\Program.cs",
+              "RelativeDocumentMoniker": "HaatBazar\\Program.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\Program.cs",
+              "RelativeToolTip": "HaatBazar\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:54:38.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\appsettings.json",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\appsettings.json",
               "RelativeDocumentMoniker": "HaatBazar\\appsettings.json",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\appsettings.json",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\appsettings.json",
               "RelativeToolTip": "HaatBazar\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-12-28T15:57:03.138Z"
             },
@@ -229,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\WeatherForecast.cs",
+              "DocumentMoniker": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "HaatBazar\\WeatherForecast.cs",
-              "ToolTip": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\WeatherForecast.cs",
+              "ToolTip": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\WeatherForecast.cs",
               "RelativeToolTip": "HaatBazar\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

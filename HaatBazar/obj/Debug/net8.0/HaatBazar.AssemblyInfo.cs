@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HaatBazar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+159b589564b62a7c29dccedb40526719624456dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("HaatBazar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HaatBazar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

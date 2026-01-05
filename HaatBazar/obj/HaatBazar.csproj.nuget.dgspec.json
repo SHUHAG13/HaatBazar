@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet Project\\HaatBazar\\HaatBazar\\HaatBazar.csproj": {}
+    "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\HaatBazar.csproj": {}
   },
   "projects": {
-    "D:\\DotNet Project\\HaatBazar\\HaatBazar\\HaatBazar.csproj": {
+    "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\HaatBazar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\HaatBazar.csproj",
+        "projectUniqueName": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\HaatBazar.csproj",
         "projectName": "HaatBazar",
-        "projectPath": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\HaatBazar.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet Project\\HaatBazar\\HaatBazar\\obj\\",
+        "projectPath": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\HaatBazar.csproj",
+        "packagesPath": "C:\\Users\\Shuhag Mia\\.nuget\\packages\\",
+        "outputPath": "E:\\ShuhagPersonal\\HaatBazar\\HaatBazar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shuhag Mia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
